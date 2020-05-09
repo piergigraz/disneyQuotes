@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/disneyQuotes/static/css/main.c6114120.chunk.css",
+    "main.js": "/disneyQuotes/static/js/main.ce521ed3.chunk.js",
+    "main.js.map": "/disneyQuotes/static/js/main.ce521ed3.chunk.js.map",
+    "runtime-main.js": "/disneyQuotes/static/js/runtime-main.767520f4.js",
+    "runtime-main.js.map": "/disneyQuotes/static/js/runtime-main.767520f4.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/disneyQuotes/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.6214e413.chunk.js": "/disneyQuotes/static/js/2.6214e413.chunk.js",
+    "static/js/2.6214e413.chunk.js.map": "/disneyQuotes/static/js/2.6214e413.chunk.js.map",
+    "index.html": "/disneyQuotes/index.html",
+    "precache-manifest.74a27b622acb13c9e102f278f06de9bd.js": "/disneyQuotes/precache-manifest.74a27b622acb13c9e102f278f06de9bd.js",
+    "service-worker.js": "/disneyQuotes/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/disneyQuotes/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.c6114120.chunk.css.map": "/disneyQuotes/static/css/main.c6114120.chunk.css.map",
+    "static/js/2.6214e413.chunk.js.LICENSE": "/disneyQuotes/static/js/2.6214e413.chunk.js.LICENSE",
+    "static/media/1.jpg": "/disneyQuotes/static/media/1.8bd03498.jpg",
+    "static/media/2.jpg": "/disneyQuotes/static/media/2.51e26fb2.jpg",
+    "static/media/3.jpg": "/disneyQuotes/static/media/3.ccc0d4aa.jpg",
+    "static/media/background.jpg": "/disneyQuotes/static/media/background.5bc4b1ba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.767520f4.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.6214e413.chunk.js",
+    "static/css/main.c6114120.chunk.css",
+    "static/js/main.ce521ed3.chunk.js"
+  ]
+}
