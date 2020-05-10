@@ -24,7 +24,7 @@ class App extends Component {
             return singleQuote.category.toLowerCase().includes(this.state.searchfield.toLowerCase())
             });
         return (
-            <div  className="tc">
+            <div className="tc flexbox flex-wrap">
                 <SearchBox searchChangeProp={this.onSearchChange}/>
                 <CardList disneyQuotes={filteredList}/>
             </div>
