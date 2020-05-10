@@ -26,7 +26,7 @@ class App extends Component {
         return (
             <div  className="tc">
                 <SearchBox searchChangeProp={this.onSearchChange}/>
-                <CardList disneyQuotes={filteredList}/>
+                <CardList ClassName="tc flexbox flex-wrap" disneyQuotes={filteredList}/>
             </div>
             );
         }
