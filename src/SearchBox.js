@@ -3,7 +3,7 @@ import React from 'react';
 
 const SearchBox = ({searchfield,searchChangeProp}) => {
     return (
-        <div>
+        <div className="w-100">
             <h2 className="white">Look for Marvel, Star Wars, Classic Disney, Pixar quote</h2>
             <input 
             className="f2 code pa2 ma3" 

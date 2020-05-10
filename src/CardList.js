@@ -5,7 +5,7 @@ import 'tachyons';
 const CardList = ({disneyQuotes}) => {
 
     return (
-        <div>
+        <div className="tc flexbox flex-wrap flex-grow">
         {
             disneyQuotes.map((disneyChar,i) => {
                 return (

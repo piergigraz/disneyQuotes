@@ -19,46 +19,83 @@ export const disneyQuotes = [
     category: 'Classic',
     quote: 'Non smettete mai di sognare, solo chi sogna può volare'
   },
-//   {
-//     id: 4,
-//     name: 'Patricia Lebsack',
-//     category: 'Karianne',
-//     quote: 'Julianne.OConner@kory.org'
-//   },
-//   {
-//     id: 5,
-//     name: 'Chelsey Dietrich',
-//     category: 'Kamren',
-//     quote: 'Lucio_Hettinger@annie.ca'
-//   },
-//   {
-//     id: 6,
-//     name: 'Mrs. Dennis Schulist',
-//     category: 'Leopoldo_Corkery',
-//     quote: 'Karley_Dach@jasper.info'
-//   },
-//   {
-//     id: 7,
-//     name: 'Kurtis Weissnat',
-//     category: 'Elwyn.Skiles',
-//     quote: 'Telly.Hoeger@billy.biz'
-//   },
-//   {
-//     id: 8,
-//     name: 'Nicholas Runolfsdottir V',
-//     category: 'Maxime_Nienow',
-//     quote: 'Sherwood@rosamond.me'
-//   },
-//   {
-//     id: 9,
-//     name: 'Glenna Reichert',
-//     category: 'Delphine',
-//     quote: 'Chaim_McDermott@dana.io'
-//   },
-//   {
-//     id: 10,
-//     name: 'Clementina DuBuque',
-//     category: 'Moriah.Stanton',
-//     quote: 'Rey.Padberg@karina.biz'
-//   }
+  {
+    id: 4,
+    name: 'Lilly e il Vagabondo',
+    category: 'Classic',
+    quote: 'Le auguro una BELLA NOTTE!'
+  },
+  {
+    id: 5,
+    name: 'Fata Madrina',
+    category: 'Classic',
+    quote: 'BIBIDIBOBIDIBU! Fatto!'
+  },
+  {
+    id: 6,
+    name: 'Il Libro della Giungla',
+    category: 'Classic',
+    quote: 'le chiederò LO STRETTO INDISPENSABILE!'
+  },
+  {
+    id: 7,
+    name: 'Fata Madrina',
+    category: 'Classic',
+    quote: `..anche per i miracoli c'è bisogno di un pò di tempo`
+  },
+  {
+    id: 8,
+    name: 'Anacleto',
+    category: 'Classic',
+    quote: 'QUISQUILIE E PINZILLACCHERE!'
+  },
+  {
+    id: 9,
+    name: 'Timon e Pumba',
+    category: 'Classic',
+    quote: 'HAKUNA MATATA!'
+  },
+  {
+    id: 10,
+    name: 'Toy Story',
+    category: 'Pixar',
+    quote: 'VERSO L’INFINITO E OLTRE!'
+  },
+  {
+    id: 11,
+    name: 'Mary Poppins',
+    category: 'Classic',
+    quote: 'SUPER CALIFRAGILISTI CHE SPIRALIDOSO!'
+  },
+  {
+    id: 12,
+    name: 'Ratatouille',
+    category: 'Pixar',
+    quote: 'Posso parlare con mamma/papà PICCOLO CHEF?'
+  },
+  {
+    id: 13,
+    name: 'Re Leone',
+    category: 'Classic',
+    quote: `(il film che cerchi) UN GIORNO ......SARA’ TUO!`
+  },
+  {
+    id: 14,
+    name: 'Yoda',
+    category: 'Star Wars',
+    quote: `Saperne un po' di più può illuminarci la via.`
+  },
+  {
+    id: 15,
+    name: 'Qui-Gon Jinn',
+    category: 'Star Wars',
+    quote: `Tutto sistemato mio giovane PADAWAN`
+  },
+  {
+    id: 16,
+    name: 'Hulk',
+    category: 'Marvel',
+    quote: `Puoi passarmi mamma o papà, piccolo umano?`
+  },
+
  ];
