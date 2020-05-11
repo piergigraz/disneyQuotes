@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/disneyQuotes/precache-manifest.d45997004fbf2367aae0c9b3df7a66a0.js"
+  "/disneyQuotes/precache-manifest.255627f9efd828700eee1aee1bba10cf.js"
 );
 
 self.addEventListener('message', (event) => {
