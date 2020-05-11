@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf1c9176f2f0f730edf292e3c6da635c",
+    "revision": "be56fecec4d0620378fa72b168071646",
     "url": "/disneyQuotes/index.html"
   },
   {
