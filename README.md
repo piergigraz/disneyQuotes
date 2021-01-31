@@ -4,6 +4,9 @@ This project was intended to practice React.
 
 React App with a Searchbox that dinamically sorts results.
 
+![Home of Image](src/img/test1.png)
+
+
 ## The idea behind 
 
 Working for Disney customer service, was good habit to implement a quote during a conversation.
