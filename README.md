@@ -9,8 +9,8 @@ React App with a Searchbox that dinamically sorts results.
 
 ## The idea behind 
 
-Working for Disney customer service, was good habit to implement a quote during a conversation.
-This app collects in a searchable list, some of the most famous quotes of the beloved Disney Universe.
+Working for customer service, it was a good habit to implement a "magic" quote during a conversation.
+This app collects in a searchable list some of the most famous quotes of the beloved Disney Universe.
 
 ### How to use it
 
